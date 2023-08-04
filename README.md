@@ -2,7 +2,7 @@
 
 ## Apache Setup
 
-* Download Apache Server from [Link]([Apache VS17 binaries and modules download (apachelounge.com)]). It is  **Apache Lounge** Windows Binaries.
+* Download Apache Server from **Apache Lounge** Windows Binaries.
 * Download and Install the [Visual C++ Redistributable for Visual Studio 2015-2019 x64](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
 * Add Apache Server files in `C:\Server` directory.
 * Go to conf folder and open httpd.conf in any text editor.
