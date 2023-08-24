@@ -30,7 +30,7 @@ DirectoryIndex index.html index.php
 ```
 
 * To test the installation, open up the command prompt, go to **C:/Server/bin** and run Apache by typing **./httpd.exe** in terminal. I was using powershell.
-* If there is no error, open up a browser of your choice and go to **http://localhost
+* If there is no error, open up a browser of your choice and go to **http://localhost**
 * To **run Apache automatically on startup**, register it as a service. Open the Command Prompt as administrator (right click -> Run as administrator) and type `httpd -k install` 
 * Check Apache service in Services and click _Start the service_
 
